@@ -1,0 +1,136 @@
+{
+    "users":[
+        {
+            "id":"1",
+            "firstName":"Mani",
+            "lastName":"Reddy",
+            "email":"mani@gmail.com",
+            "myLine":[{
+                "device":"iPhone 11 Pro Max",
+                "deviceSpec":"Midnight Green 256 GB",
+                "installment":"$290.74",
+                "addOns":"4"
+            }],
+            "dataUsage":"20MB",
+            "type":"primary",
+            "messages":"116",
+            "Calls":"453",
+            "addOns":[
+                {
+                    "id":"2",
+                    "firstName":"Mahesh",
+                    "lastName":"R",                    
+                    "phone": "(111) 111 1112"
+                },
+                {
+                    "id":"3",
+                    "firstName":"Bill",
+                    "lastName":"Mount",                    
+                    "phone": "(111) 111 1113"
+                },
+                {
+                    "id":"4",
+                    "firstName":"Jim",
+                    "lastName":"St",                    
+                    "phone": "(111) 111 1114"
+                },
+                {
+                    "id":"5",
+                    "firstName":"Adler",
+                    "lastName":"J",                    
+                    "phone": "(111) 111 1115"
+                }
+            ],
+            "phone": "(111) 111 1111",
+            "monthlyUsage":[
+                            {"month":"January","data":"120","message":"112","calls":"250"},
+                            {"month":"February","data":"100","message":"12","calls":"265"},
+                            {"month":"March","data":"225","message":"52","calls":"230"}
+                        ]
+        },
+        {
+            "id":"2",
+            "firstName":"Mahesh",
+            "lastName":"R",
+            "email":"mahesh@gmail.com",
+            "dataUsage":"201MB",
+            "type":"line1",
+            "messages":"11",
+            "Calls":"45",
+            "myLine":[{
+                "device":"iPhone 11 Pro",
+                "deviceSpec":"Rose 128 GB",
+                "installment":"$190.74"
+            }],
+            "phone": "(111) 111 1112",
+            "monthlyUsage":[
+                {"month":"January","data":"120","message":"112","calls":"250"},
+                {"month":"February","data":"100","message":"12","calls":"265"},
+                {"month":"March","data":"225","message":"52","calls":"230"}
+            ]
+        },
+        {
+            "id":"3",
+            "firstName":"Bill",
+            "lastName":"Mount",
+            "email":"Mount@gmail.com",
+            "dataUsage":"1GB",
+            "type":"line2",
+            "messages":"22",
+            "Calls":"210",
+            "myLine":[{
+                "device":"iPhone 10",
+                "deviceSpec":"Silver 64 GB",
+                "installment":"$90.74"
+            }],
+            "phone": "(111) 111 1113",
+            "monthlyUsage":[
+                {"month":"January","data":"20","message":"11","calls":"10"},
+                {"month":"February","data":"10","message":"62","calls":"25"},
+                {"month":"March","data":"22","message":"92","calls":"221"}
+            ]
+        },
+        {
+            "id":"4",
+            "firstName":"Jim",
+            "lastName":"St",
+            "email":"stj@gmail.com",
+            "dataUsage":"700MB",
+            "type":"line3",
+            "messages":"116",
+            "Calls":"56",
+            "myLine":[{
+                "device":"iPhone 11 Pro Max",
+                "deviceSpec":"Midnight Green 128 GB",
+                "installment":"$330.74"
+            }],
+            "phone": "(111) 111 1114",
+            "monthlyUsage":[
+                {"month":"January","data":"20","message":"22","calls":"20"},
+                {"month":"February","data":"10","message":"22","calls":"65"},
+                {"month":"March","data":"25","message":"32","calls":"23"}
+            ]
+        },
+        {
+            "id":"5",
+            "firstName":"Adler",
+            "lastName":"J",
+            "email":"jAd@gmail.com",
+            "dataUsage":"100MB",
+            "type":"line4",
+            "messages":"160",
+            "Calls":"120",
+            "myLine":[{
+                "device":"iPhone 11 Pro Max",
+                "deviceSpec":"Midnight Green 256 GB",
+                "installment":"$490.74"
+            }],
+            "phone": "(111) 111 1115",
+            "monthlyUsage":[
+                {"month":"January","data":"60","message":"12","calls":"50"},
+                {"month":"February","data":"500","message":"12","calls":"215"},
+                {"month":"March","data":"25","message":"52","calls":"30"}
+            ]
+        }
+    ]
+}
